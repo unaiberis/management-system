@@ -39,18 +39,22 @@ same structure as the ISO 9001 standard.
 Configuration
 =============
 
-To enter your work instruction template, you need to:
+To edit the quality manual template:
 
--  go to Management Systems > Configuration > Categories
--  select the Work Instructions category and edit the template
+-  Go to Management Systems > Configuration > Categories
+-  Select the Quality Manual category
+-  Edit the content
 
 Usage
 =====
 
-To enter your quality manual, you need to:
+To enter your quality manual:
 
--  go to Management Systems > Documentation > Manuals
--  Create a new page and select the Quality Manual category.
+-  Go to Management Systems > Documentation > Manuals
+-  Create a new page
+-  Enter a title
+-  Select the Quality Manual category
+-  Fill in the content
 
 Bug Tracker
 ===========
@@ -74,23 +78,31 @@ Contributors
 ------------
 
 -  Odoo SA <info@odoo.com>
+
 -  Maxime Chambreuil <maxime.chambreuil@savoirfairelinux.com>
+
 -  Gervais Naoussi <gervaisnaoussi@gmail.com>
+
 -  Eugen Don <eugen.don@don-systems.de>
+
 -  Jose Maria Alzaga <jose.alzaga@aselcis.com>
+
 -  `Tecnativa <https://www.tecnativa.com>`__:
 
    -  Ernesto Tejeda
 
-Trobz
+-  `Trobz <https://www.trobz.com>`__:
 
--  Dung Tran <dungtd@trobz.com>
+   -  Dung Tran <dungtd@trobz.com>
+   -  Khoi (Kien Kim) <khoikk@trobz.com>
+
 -  Yvan Dotet <yvan.dotet@logicasoft.eu>
 
 Other credits
 -------------
 
-The development of this module has been financially supported by:
+The migration of this module from 17.0 to 18.0 was financially supported
+by:
 
 -  Camptocamp
 
