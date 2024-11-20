@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [mgmtsystem](mgmtsystem/) | 18.0.1.0.0 |  | Management System
+[mgmtsystem_action](mgmtsystem_action/) | 18.0.1.0.0 |  | Management System - Action
 
 [//]: # (end addons)
 

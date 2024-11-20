@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-management-system"
-version = "18.0.20241012.0"
+version = "18.0.20241120.0"
 dependencies = [
     "odoo-addon-mgmtsystem==18.0.*",
+    "odoo-addon-mgmtsystem_action==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
