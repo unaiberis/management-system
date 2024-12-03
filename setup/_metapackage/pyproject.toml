@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-management-system"
-version = "18.0.20241203.0"
+version = "18.0.20241203.1"
 dependencies = [
     "odoo-addon-document_page_procedure==18.0.*",
+    "odoo-addon-document_page_quality_manual==18.0.*",
     "odoo-addon-mgmtsystem==18.0.*",
     "odoo-addon-mgmtsystem_action==18.0.*",
     "odoo-addon-mgmtsystem_manual==18.0.*",
